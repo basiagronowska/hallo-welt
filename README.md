@@ -97,3 +97,4 @@ przyslowia = "Bez pracy nie ma płacy", "Czas leczy rany", "Czas to pieniądz", 
 if slowo == 'przyslowie' :
     wylosowana = random.choice(przyslowia)
     print(wylosowana)
+    khljh
