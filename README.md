@@ -1,5 +1,6 @@
 # hallo-welt
 my first repository
+siabada
 import random
 import time
 wylosowana = random.randint(1,10)
